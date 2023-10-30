@@ -1,0 +1,2106 @@
+<div class="time-now weather-day" style="cursor: pointer" title="TP HCM hiện tại 27  độ">
+                <div class="news-area">
+                    <span
+                        onclick="location.href='/thoi-tiet/tp-hcm#vn_source=Home&amp;vn_campaign=Header&amp;vn_medium=Item-ThoiTiet&amp;vn_term=Desktop'">TPHCM</span>
+                    <div class="sub-area">
+                        <div class="head">
+                            <div class="title">
+                                <svg class="ic ic-weather">
+                                    <use xlink:href="#icon-location-2"></use>
+                                </svg>
+                                <div>
+                                    Tự động xác định vị trí
+
+                                </div>
+                            </div>
+                            <div class="btn-on-off">
+                                <label class="switch">
+                                    <input type="checkbox">
+                                    <span class="slider round"></span>
+                                </label>
+                            </div>
+                        </div>
+                        <div class="warp">
+                            <form class="search">
+                                <button>
+                                    <svg class="ic ic-weather">
+                                        <use xlink:href="#icon-search"></use>
+                                    </svg>
+                                </button>
+                                <input type="text" placeholder="Tìm địa điểm">
+                            </form>
+                            <div class="scroll-height">
+                                <ul class="list-address">
+
+                                    <li class="adrress">
+                                        <a href="javascript:void(0);" data-name="Hà Nội" data-action="view"
+                                            class="location">Hà Nội</a>
+                                        <div class="option">
+                                            <a href="javascript:void(0);" data-name="Hà Nội" data-action="set"
+                                                class="default-check">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                                <span>Chọn mặc định</span>
+                                            </a>
+                                            <a href="javascript:void(0);" data-name="Hà Nội" data-action="view"
+                                                class="view">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-view"></use>
+                                                </svg>
+                                                <span>Xem</span>
+                                            </a>
+                                            <a href="javascript:void(0);" class="default">
+                                                <span>Mặc định</span>
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                            </a>
+                                        </div>
+                                    </li>
+
+                                    <li class="adrress active">
+                                        <a href="javascript:void(0);" data-name="TP HCM" data-action="view"
+                                            class="location">TP HCM</a>
+                                        <div class="option">
+                                            <a href="javascript:void(0);" data-name="TP HCM" data-action="set"
+                                                class="default-check">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-check"></use>
+                                                </svg>
+                                                <span>Chọn mặc định</span>
+                                            </a>
+                                            <a href="javascript:void(0);" data-name="TP HCM" data-action="view"
+                                                class="view">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-view"></use>
+                                                </svg>
+                                                <span>Xem</span>
+                                            </a>
+                                            <a href="javascript:void(0);" class="default">
+                                                <span>Mặc định</span>
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                            </a>
+                                        </div>
+                                    </li>
+
+                                    <li class="adrress">
+                                        <a href="javascript:void(0);" data-name="Đà Nẵng" data-action="view"
+                                            class="location">Đà Nẵng</a>
+                                        <div class="option">
+                                            <a href="javascript:void(0);" data-name="Đà Nẵng" data-action="set"
+                                                class="default-check">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                                <span>Chọn mặc định</span>
+                                            </a>
+                                            <a href="javascript:void(0);" data-name="Đà Nẵng" data-action="view"
+                                                class="view">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-view"></use>
+                                                </svg>
+                                                <span>Xem</span>
+                                            </a>
+                                            <a href="javascript:void(0);" class="default">
+                                                <span>Mặc định</span>
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                            </a>
+                                        </div>
+                                    </li>
+
+                                    <li class="adrress">
+                                        <a href="javascript:void(0);" data-name="An Giang" data-action="view"
+                                            class="location">An Giang</a>
+                                        <div class="option">
+                                            <a href="javascript:void(0);" data-name="An Giang" data-action="set"
+                                                class="default-check">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                                <span>Chọn mặc định</span>
+                                            </a>
+                                            <a href="javascript:void(0);" data-name="An Giang" data-action="view"
+                                                class="view">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-view"></use>
+                                                </svg>
+                                                <span>Xem</span>
+                                            </a>
+                                            <a href="javascript:void(0);" class="default">
+                                                <span>Mặc định</span>
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                            </a>
+                                        </div>
+                                    </li>
+
+                                    <li class="adrress">
+                                        <a href="javascript:void(0);" data-name="Vũng Tàu" data-action="view"
+                                            class="location">Vũng Tàu</a>
+                                        <div class="option">
+                                            <a href="javascript:void(0);" data-name="Vũng Tàu" data-action="set"
+                                                class="default-check">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                                <span>Chọn mặc định</span>
+                                            </a>
+                                            <a href="javascript:void(0);" data-name="Vũng Tàu" data-action="view"
+                                                class="view">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-view"></use>
+                                                </svg>
+                                                <span>Xem</span>
+                                            </a>
+                                            <a href="javascript:void(0);" class="default">
+                                                <span>Mặc định</span>
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                            </a>
+                                        </div>
+                                    </li>
+
+                                    <li class="adrress">
+                                        <a href="javascript:void(0);" data-name="Côn Đảo" data-action="view"
+                                            class="location">Côn Đảo</a>
+                                        <div class="option">
+                                            <a href="javascript:void(0);" data-name="Côn Đảo" data-action="set"
+                                                class="default-check">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                                <span>Chọn mặc định</span>
+                                            </a>
+                                            <a href="javascript:void(0);" data-name="Côn Đảo" data-action="view"
+                                                class="view">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-view"></use>
+                                                </svg>
+                                                <span>Xem</span>
+                                            </a>
+                                            <a href="javascript:void(0);" class="default">
+                                                <span>Mặc định</span>
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                            </a>
+                                        </div>
+                                    </li>
+
+                                    <li class="adrress">
+                                        <a href="javascript:void(0);" data-name="Bạc Liêu" data-action="view"
+                                            class="location">Bạc Liêu</a>
+                                        <div class="option">
+                                            <a href="javascript:void(0);" data-name="Bạc Liêu" data-action="set"
+                                                class="default-check">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                                <span>Chọn mặc định</span>
+                                            </a>
+                                            <a href="javascript:void(0);" data-name="Bạc Liêu" data-action="view"
+                                                class="view">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-view"></use>
+                                                </svg>
+                                                <span>Xem</span>
+                                            </a>
+                                            <a href="javascript:void(0);" class="default">
+                                                <span>Mặc định</span>
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                            </a>
+                                        </div>
+                                    </li>
+
+                                    <li class="adrress">
+                                        <a href="javascript:void(0);" data-name="Bắc Giang" data-action="view"
+                                            class="location">Bắc Giang</a>
+                                        <div class="option">
+                                            <a href="javascript:void(0);" data-name="Bắc Giang" data-action="set"
+                                                class="default-check">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                                <span>Chọn mặc định</span>
+                                            </a>
+                                            <a href="javascript:void(0);" data-name="Bắc Giang" data-action="view"
+                                                class="view">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-view"></use>
+                                                </svg>
+                                                <span>Xem</span>
+                                            </a>
+                                            <a href="javascript:void(0);" class="default">
+                                                <span>Mặc định</span>
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                            </a>
+                                        </div>
+                                    </li>
+
+                                    <li class="adrress">
+                                        <a href="javascript:void(0);" data-name="Bắc Kạn" data-action="view"
+                                            class="location">Bắc Kạn</a>
+                                        <div class="option">
+                                            <a href="javascript:void(0);" data-name="Bắc Kạn" data-action="set"
+                                                class="default-check">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                                <span>Chọn mặc định</span>
+                                            </a>
+                                            <a href="javascript:void(0);" data-name="Bắc Kạn" data-action="view"
+                                                class="view">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-view"></use>
+                                                </svg>
+                                                <span>Xem</span>
+                                            </a>
+                                            <a href="javascript:void(0);" class="default">
+                                                <span>Mặc định</span>
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                            </a>
+                                        </div>
+                                    </li>
+
+                                    <li class="adrress">
+                                        <a href="javascript:void(0);" data-name="Bắc Ninh" data-action="view"
+                                            class="location">Bắc Ninh</a>
+                                        <div class="option">
+                                            <a href="javascript:void(0);" data-name="Bắc Ninh" data-action="set"
+                                                class="default-check">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                                <span>Chọn mặc định</span>
+                                            </a>
+                                            <a href="javascript:void(0);" data-name="Bắc Ninh" data-action="view"
+                                                class="view">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-view"></use>
+                                                </svg>
+                                                <span>Xem</span>
+                                            </a>
+                                            <a href="javascript:void(0);" class="default">
+                                                <span>Mặc định</span>
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                            </a>
+                                        </div>
+                                    </li>
+
+                                    <li class="adrress">
+                                        <a href="javascript:void(0);" data-name="Bến Tre" data-action="view"
+                                            class="location">Bến Tre</a>
+                                        <div class="option">
+                                            <a href="javascript:void(0);" data-name="Bến Tre" data-action="set"
+                                                class="default-check">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                                <span>Chọn mặc định</span>
+                                            </a>
+                                            <a href="javascript:void(0);" data-name="Bến Tre" data-action="view"
+                                                class="view">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-view"></use>
+                                                </svg>
+                                                <span>Xem</span>
+                                            </a>
+                                            <a href="javascript:void(0);" class="default">
+                                                <span>Mặc định</span>
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                            </a>
+                                        </div>
+                                    </li>
+
+                                    <li class="adrress">
+                                        <a href="javascript:void(0);" data-name="Bình Dương" data-action="view"
+                                            class="location">Bình Dương</a>
+                                        <div class="option">
+                                            <a href="javascript:void(0);" data-name="Bình Dương" data-action="set"
+                                                class="default-check">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                                <span>Chọn mặc định</span>
+                                            </a>
+                                            <a href="javascript:void(0);" data-name="Bình Dương" data-action="view"
+                                                class="view">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-view"></use>
+                                                </svg>
+                                                <span>Xem</span>
+                                            </a>
+                                            <a href="javascript:void(0);" class="default">
+                                                <span>Mặc định</span>
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                            </a>
+                                        </div>
+                                    </li>
+
+                                    <li class="adrress">
+                                        <a href="javascript:void(0);" data-name="Bình Định" data-action="view"
+                                            class="location">Bình Định</a>
+                                        <div class="option">
+                                            <a href="javascript:void(0);" data-name="Bình Định" data-action="set"
+                                                class="default-check">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                                <span>Chọn mặc định</span>
+                                            </a>
+                                            <a href="javascript:void(0);" data-name="Bình Định" data-action="view"
+                                                class="view">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-view"></use>
+                                                </svg>
+                                                <span>Xem</span>
+                                            </a>
+                                            <a href="javascript:void(0);" class="default">
+                                                <span>Mặc định</span>
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                            </a>
+                                        </div>
+                                    </li>
+
+                                    <li class="adrress">
+                                        <a href="javascript:void(0);" data-name="Bình Phước" data-action="view"
+                                            class="location">Bình Phước</a>
+                                        <div class="option">
+                                            <a href="javascript:void(0);" data-name="Bình Phước" data-action="set"
+                                                class="default-check">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                                <span>Chọn mặc định</span>
+                                            </a>
+                                            <a href="javascript:void(0);" data-name="Bình Phước" data-action="view"
+                                                class="view">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-view"></use>
+                                                </svg>
+                                                <span>Xem</span>
+                                            </a>
+                                            <a href="javascript:void(0);" class="default">
+                                                <span>Mặc định</span>
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                            </a>
+                                        </div>
+                                    </li>
+
+                                    <li class="adrress">
+                                        <a href="javascript:void(0);" data-name="Bình Thuận" data-action="view"
+                                            class="location">Bình Thuận</a>
+                                        <div class="option">
+                                            <a href="javascript:void(0);" data-name="Bình Thuận" data-action="set"
+                                                class="default-check">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                                <span>Chọn mặc định</span>
+                                            </a>
+                                            <a href="javascript:void(0);" data-name="Bình Thuận" data-action="view"
+                                                class="view">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-view"></use>
+                                                </svg>
+                                                <span>Xem</span>
+                                            </a>
+                                            <a href="javascript:void(0);" class="default">
+                                                <span>Mặc định</span>
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                            </a>
+                                        </div>
+                                    </li>
+
+                                    <li class="adrress">
+                                        <a href="javascript:void(0);" data-name="Phú Quý" data-action="view"
+                                            class="location">Phú Quý</a>
+                                        <div class="option">
+                                            <a href="javascript:void(0);" data-name="Phú Quý" data-action="set"
+                                                class="default-check">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                                <span>Chọn mặc định</span>
+                                            </a>
+                                            <a href="javascript:void(0);" data-name="Phú Quý" data-action="view"
+                                                class="view">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-view"></use>
+                                                </svg>
+                                                <span>Xem</span>
+                                            </a>
+                                            <a href="javascript:void(0);" class="default">
+                                                <span>Mặc định</span>
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                            </a>
+                                        </div>
+                                    </li>
+
+                                    <li class="adrress">
+                                        <a href="javascript:void(0);" data-name="Cà Mau" data-action="view"
+                                            class="location">Cà Mau</a>
+                                        <div class="option">
+                                            <a href="javascript:void(0);" data-name="Cà Mau" data-action="set"
+                                                class="default-check">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                                <span>Chọn mặc định</span>
+                                            </a>
+                                            <a href="javascript:void(0);" data-name="Cà Mau" data-action="view"
+                                                class="view">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-view"></use>
+                                                </svg>
+                                                <span>Xem</span>
+                                            </a>
+                                            <a href="javascript:void(0);" class="default">
+                                                <span>Mặc định</span>
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                            </a>
+                                        </div>
+                                    </li>
+
+                                    <li class="adrress">
+                                        <a href="javascript:void(0);" data-name="Cao Bằng" data-action="view"
+                                            class="location">Cao Bằng</a>
+                                        <div class="option">
+                                            <a href="javascript:void(0);" data-name="Cao Bằng" data-action="set"
+                                                class="default-check">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                                <span>Chọn mặc định</span>
+                                            </a>
+                                            <a href="javascript:void(0);" data-name="Cao Bằng" data-action="view"
+                                                class="view">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-view"></use>
+                                                </svg>
+                                                <span>Xem</span>
+                                            </a>
+                                            <a href="javascript:void(0);" class="default">
+                                                <span>Mặc định</span>
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                            </a>
+                                        </div>
+                                    </li>
+
+                                    <li class="adrress">
+                                        <a href="javascript:void(0);" data-name="Cần Thơ" data-action="view"
+                                            class="location">Cần Thơ</a>
+                                        <div class="option">
+                                            <a href="javascript:void(0);" data-name="Cần Thơ" data-action="set"
+                                                class="default-check">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                                <span>Chọn mặc định</span>
+                                            </a>
+                                            <a href="javascript:void(0);" data-name="Cần Thơ" data-action="view"
+                                                class="view">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-view"></use>
+                                                </svg>
+                                                <span>Xem</span>
+                                            </a>
+                                            <a href="javascript:void(0);" class="default">
+                                                <span>Mặc định</span>
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                            </a>
+                                        </div>
+                                    </li>
+
+                                    <li class="adrress">
+                                        <a href="javascript:void(0);" data-name="Đắk Lắk" data-action="view"
+                                            class="location">Đắk Lắk</a>
+                                        <div class="option">
+                                            <a href="javascript:void(0);" data-name="Đắk Lắk" data-action="set"
+                                                class="default-check">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                                <span>Chọn mặc định</span>
+                                            </a>
+                                            <a href="javascript:void(0);" data-name="Đắk Lắk" data-action="view"
+                                                class="view">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-view"></use>
+                                                </svg>
+                                                <span>Xem</span>
+                                            </a>
+                                            <a href="javascript:void(0);" class="default">
+                                                <span>Mặc định</span>
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                            </a>
+                                        </div>
+                                    </li>
+
+                                    <li class="adrress">
+                                        <a href="javascript:void(0);" data-name="Đắk Nông" data-action="view"
+                                            class="location">Đắk Nông</a>
+                                        <div class="option">
+                                            <a href="javascript:void(0);" data-name="Đắk Nông" data-action="set"
+                                                class="default-check">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                                <span>Chọn mặc định</span>
+                                            </a>
+                                            <a href="javascript:void(0);" data-name="Đắk Nông" data-action="view"
+                                                class="view">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-view"></use>
+                                                </svg>
+                                                <span>Xem</span>
+                                            </a>
+                                            <a href="javascript:void(0);" class="default">
+                                                <span>Mặc định</span>
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                            </a>
+                                        </div>
+                                    </li>
+
+                                    <li class="adrress">
+                                        <a href="javascript:void(0);" data-name="Điện Biên" data-action="view"
+                                            class="location">Điện Biên</a>
+                                        <div class="option">
+                                            <a href="javascript:void(0);" data-name="Điện Biên" data-action="set"
+                                                class="default-check">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                                <span>Chọn mặc định</span>
+                                            </a>
+                                            <a href="javascript:void(0);" data-name="Điện Biên" data-action="view"
+                                                class="view">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-view"></use>
+                                                </svg>
+                                                <span>Xem</span>
+                                            </a>
+                                            <a href="javascript:void(0);" class="default">
+                                                <span>Mặc định</span>
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                            </a>
+                                        </div>
+                                    </li>
+
+                                    <li class="adrress">
+                                        <a href="javascript:void(0);" data-name="Đồng Nai" data-action="view"
+                                            class="location">Đồng Nai</a>
+                                        <div class="option">
+                                            <a href="javascript:void(0);" data-name="Đồng Nai" data-action="set"
+                                                class="default-check">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                                <span>Chọn mặc định</span>
+                                            </a>
+                                            <a href="javascript:void(0);" data-name="Đồng Nai" data-action="view"
+                                                class="view">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-view"></use>
+                                                </svg>
+                                                <span>Xem</span>
+                                            </a>
+                                            <a href="javascript:void(0);" class="default">
+                                                <span>Mặc định</span>
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                            </a>
+                                        </div>
+                                    </li>
+
+                                    <li class="adrress">
+                                        <a href="javascript:void(0);" data-name="Đồng Tháp" data-action="view"
+                                            class="location">Đồng Tháp</a>
+                                        <div class="option">
+                                            <a href="javascript:void(0);" data-name="Đồng Tháp" data-action="set"
+                                                class="default-check">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                                <span>Chọn mặc định</span>
+                                            </a>
+                                            <a href="javascript:void(0);" data-name="Đồng Tháp" data-action="view"
+                                                class="view">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-view"></use>
+                                                </svg>
+                                                <span>Xem</span>
+                                            </a>
+                                            <a href="javascript:void(0);" class="default">
+                                                <span>Mặc định</span>
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                            </a>
+                                        </div>
+                                    </li>
+
+                                    <li class="adrress">
+                                        <a href="javascript:void(0);" data-name="Gia Lai" data-action="view"
+                                            class="location">Gia Lai</a>
+                                        <div class="option">
+                                            <a href="javascript:void(0);" data-name="Gia Lai" data-action="set"
+                                                class="default-check">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                                <span>Chọn mặc định</span>
+                                            </a>
+                                            <a href="javascript:void(0);" data-name="Gia Lai" data-action="view"
+                                                class="view">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-view"></use>
+                                                </svg>
+                                                <span>Xem</span>
+                                            </a>
+                                            <a href="javascript:void(0);" class="default">
+                                                <span>Mặc định</span>
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                            </a>
+                                        </div>
+                                    </li>
+
+                                    <li class="adrress">
+                                        <a href="javascript:void(0);" data-name="Hà Giang" data-action="view"
+                                            class="location">Hà Giang</a>
+                                        <div class="option">
+                                            <a href="javascript:void(0);" data-name="Hà Giang" data-action="set"
+                                                class="default-check">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                                <span>Chọn mặc định</span>
+                                            </a>
+                                            <a href="javascript:void(0);" data-name="Hà Giang" data-action="view"
+                                                class="view">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-view"></use>
+                                                </svg>
+                                                <span>Xem</span>
+                                            </a>
+                                            <a href="javascript:void(0);" class="default">
+                                                <span>Mặc định</span>
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                            </a>
+                                        </div>
+                                    </li>
+
+                                    <li class="adrress">
+                                        <a href="javascript:void(0);" data-name="Hà Nam" data-action="view"
+                                            class="location">Hà Nam</a>
+                                        <div class="option">
+                                            <a href="javascript:void(0);" data-name="Hà Nam" data-action="set"
+                                                class="default-check">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                                <span>Chọn mặc định</span>
+                                            </a>
+                                            <a href="javascript:void(0);" data-name="Hà Nam" data-action="view"
+                                                class="view">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-view"></use>
+                                                </svg>
+                                                <span>Xem</span>
+                                            </a>
+                                            <a href="javascript:void(0);" class="default">
+                                                <span>Mặc định</span>
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                            </a>
+                                        </div>
+                                    </li>
+
+                                    <li class="adrress">
+                                        <a href="javascript:void(0);" data-name="Hà Tĩnh" data-action="view"
+                                            class="location">Hà Tĩnh</a>
+                                        <div class="option">
+                                            <a href="javascript:void(0);" data-name="Hà Tĩnh" data-action="set"
+                                                class="default-check">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                                <span>Chọn mặc định</span>
+                                            </a>
+                                            <a href="javascript:void(0);" data-name="Hà Tĩnh" data-action="view"
+                                                class="view">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-view"></use>
+                                                </svg>
+                                                <span>Xem</span>
+                                            </a>
+                                            <a href="javascript:void(0);" class="default">
+                                                <span>Mặc định</span>
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                            </a>
+                                        </div>
+                                    </li>
+
+                                    <li class="adrress">
+                                        <a href="javascript:void(0);" data-name="Hải Dương" data-action="view"
+                                            class="location">Hải Dương</a>
+                                        <div class="option">
+                                            <a href="javascript:void(0);" data-name="Hải Dương" data-action="set"
+                                                class="default-check">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                                <span>Chọn mặc định</span>
+                                            </a>
+                                            <a href="javascript:void(0);" data-name="Hải Dương" data-action="view"
+                                                class="view">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-view"></use>
+                                                </svg>
+                                                <span>Xem</span>
+                                            </a>
+                                            <a href="javascript:void(0);" class="default">
+                                                <span>Mặc định</span>
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                            </a>
+                                        </div>
+                                    </li>
+
+                                    <li class="adrress">
+                                        <a href="javascript:void(0);" data-name="Hải Phòng" data-action="view"
+                                            class="location">Hải Phòng</a>
+                                        <div class="option">
+                                            <a href="javascript:void(0);" data-name="Hải Phòng" data-action="set"
+                                                class="default-check">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                                <span>Chọn mặc định</span>
+                                            </a>
+                                            <a href="javascript:void(0);" data-name="Hải Phòng" data-action="view"
+                                                class="view">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-view"></use>
+                                                </svg>
+                                                <span>Xem</span>
+                                            </a>
+                                            <a href="javascript:void(0);" class="default">
+                                                <span>Mặc định</span>
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                            </a>
+                                        </div>
+                                    </li>
+
+                                    <li class="adrress">
+                                        <a href="javascript:void(0);" data-name="Hậu Giang" data-action="view"
+                                            class="location">Hậu Giang</a>
+                                        <div class="option">
+                                            <a href="javascript:void(0);" data-name="Hậu Giang" data-action="set"
+                                                class="default-check">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                                <span>Chọn mặc định</span>
+                                            </a>
+                                            <a href="javascript:void(0);" data-name="Hậu Giang" data-action="view"
+                                                class="view">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-view"></use>
+                                                </svg>
+                                                <span>Xem</span>
+                                            </a>
+                                            <a href="javascript:void(0);" class="default">
+                                                <span>Mặc định</span>
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                            </a>
+                                        </div>
+                                    </li>
+
+                                    <li class="adrress">
+                                        <a href="javascript:void(0);" data-name="Hòa Bình" data-action="view"
+                                            class="location">Hòa Bình</a>
+                                        <div class="option">
+                                            <a href="javascript:void(0);" data-name="Hòa Bình" data-action="set"
+                                                class="default-check">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                                <span>Chọn mặc định</span>
+                                            </a>
+                                            <a href="javascript:void(0);" data-name="Hòa Bình" data-action="view"
+                                                class="view">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-view"></use>
+                                                </svg>
+                                                <span>Xem</span>
+                                            </a>
+                                            <a href="javascript:void(0);" class="default">
+                                                <span>Mặc định</span>
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                            </a>
+                                        </div>
+                                    </li>
+
+                                    <li class="adrress">
+                                        <a href="javascript:void(0);" data-name="Mai Châu" data-action="view"
+                                            class="location">Mai Châu</a>
+                                        <div class="option">
+                                            <a href="javascript:void(0);" data-name="Mai Châu" data-action="set"
+                                                class="default-check">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                                <span>Chọn mặc định</span>
+                                            </a>
+                                            <a href="javascript:void(0);" data-name="Mai Châu" data-action="view"
+                                                class="view">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-view"></use>
+                                                </svg>
+                                                <span>Xem</span>
+                                            </a>
+                                            <a href="javascript:void(0);" class="default">
+                                                <span>Mặc định</span>
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                            </a>
+                                        </div>
+                                    </li>
+
+                                    <li class="adrress">
+                                        <a href="javascript:void(0);" data-name="Hưng Yên" data-action="view"
+                                            class="location">Hưng Yên</a>
+                                        <div class="option">
+                                            <a href="javascript:void(0);" data-name="Hưng Yên" data-action="set"
+                                                class="default-check">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                                <span>Chọn mặc định</span>
+                                            </a>
+                                            <a href="javascript:void(0);" data-name="Hưng Yên" data-action="view"
+                                                class="view">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-view"></use>
+                                                </svg>
+                                                <span>Xem</span>
+                                            </a>
+                                            <a href="javascript:void(0);" class="default">
+                                                <span>Mặc định</span>
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                            </a>
+                                        </div>
+                                    </li>
+
+                                    <li class="adrress">
+                                        <a href="javascript:void(0);" data-name="Khánh Hòa" data-action="view"
+                                            class="location">Khánh Hòa</a>
+                                        <div class="option">
+                                            <a href="javascript:void(0);" data-name="Khánh Hòa" data-action="set"
+                                                class="default-check">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                                <span>Chọn mặc định</span>
+                                            </a>
+                                            <a href="javascript:void(0);" data-name="Khánh Hòa" data-action="view"
+                                                class="view">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-view"></use>
+                                                </svg>
+                                                <span>Xem</span>
+                                            </a>
+                                            <a href="javascript:void(0);" class="default">
+                                                <span>Mặc định</span>
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                            </a>
+                                        </div>
+                                    </li>
+
+                                    <li class="adrress">
+                                        <a href="javascript:void(0);" data-name="Nha Trang" data-action="view"
+                                            class="location">Nha Trang</a>
+                                        <div class="option">
+                                            <a href="javascript:void(0);" data-name="Nha Trang" data-action="set"
+                                                class="default-check">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                                <span>Chọn mặc định</span>
+                                            </a>
+                                            <a href="javascript:void(0);" data-name="Nha Trang" data-action="view"
+                                                class="view">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-view"></use>
+                                                </svg>
+                                                <span>Xem</span>
+                                            </a>
+                                            <a href="javascript:void(0);" class="default">
+                                                <span>Mặc định</span>
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                            </a>
+                                        </div>
+                                    </li>
+
+                                    <li class="adrress">
+                                        <a href="javascript:void(0);" data-name="Kiên Giang" data-action="view"
+                                            class="location">Kiên Giang</a>
+                                        <div class="option">
+                                            <a href="javascript:void(0);" data-name="Kiên Giang" data-action="set"
+                                                class="default-check">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                                <span>Chọn mặc định</span>
+                                            </a>
+                                            <a href="javascript:void(0);" data-name="Kiên Giang" data-action="view"
+                                                class="view">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-view"></use>
+                                                </svg>
+                                                <span>Xem</span>
+                                            </a>
+                                            <a href="javascript:void(0);" class="default">
+                                                <span>Mặc định</span>
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                            </a>
+                                        </div>
+                                    </li>
+
+                                    <li class="adrress">
+                                        <a href="javascript:void(0);" data-name="Phú Quốc" data-action="view"
+                                            class="location">Phú Quốc</a>
+                                        <div class="option">
+                                            <a href="javascript:void(0);" data-name="Phú Quốc" data-action="set"
+                                                class="default-check">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                                <span>Chọn mặc định</span>
+                                            </a>
+                                            <a href="javascript:void(0);" data-name="Phú Quốc" data-action="view"
+                                                class="view">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-view"></use>
+                                                </svg>
+                                                <span>Xem</span>
+                                            </a>
+                                            <a href="javascript:void(0);" class="default">
+                                                <span>Mặc định</span>
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                            </a>
+                                        </div>
+                                    </li>
+
+                                    <li class="adrress">
+                                        <a href="javascript:void(0);" data-name="Kon Tum" data-action="view"
+                                            class="location">Kon Tum</a>
+                                        <div class="option">
+                                            <a href="javascript:void(0);" data-name="Kon Tum" data-action="set"
+                                                class="default-check">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                                <span>Chọn mặc định</span>
+                                            </a>
+                                            <a href="javascript:void(0);" data-name="Kon Tum" data-action="view"
+                                                class="view">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-view"></use>
+                                                </svg>
+                                                <span>Xem</span>
+                                            </a>
+                                            <a href="javascript:void(0);" class="default">
+                                                <span>Mặc định</span>
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                            </a>
+                                        </div>
+                                    </li>
+
+                                    <li class="adrress">
+                                        <a href="javascript:void(0);" data-name="Lai Châu" data-action="view"
+                                            class="location">Lai Châu</a>
+                                        <div class="option">
+                                            <a href="javascript:void(0);" data-name="Lai Châu" data-action="set"
+                                                class="default-check">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                                <span>Chọn mặc định</span>
+                                            </a>
+                                            <a href="javascript:void(0);" data-name="Lai Châu" data-action="view"
+                                                class="view">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-view"></use>
+                                                </svg>
+                                                <span>Xem</span>
+                                            </a>
+                                            <a href="javascript:void(0);" class="default">
+                                                <span>Mặc định</span>
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                            </a>
+                                        </div>
+                                    </li>
+
+                                    <li class="adrress">
+                                        <a href="javascript:void(0);" data-name="Lạng Sơn" data-action="view"
+                                            class="location">Lạng Sơn</a>
+                                        <div class="option">
+                                            <a href="javascript:void(0);" data-name="Lạng Sơn" data-action="set"
+                                                class="default-check">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                                <span>Chọn mặc định</span>
+                                            </a>
+                                            <a href="javascript:void(0);" data-name="Lạng Sơn" data-action="view"
+                                                class="view">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-view"></use>
+                                                </svg>
+                                                <span>Xem</span>
+                                            </a>
+                                            <a href="javascript:void(0);" class="default">
+                                                <span>Mặc định</span>
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                            </a>
+                                        </div>
+                                    </li>
+
+                                    <li class="adrress">
+                                        <a href="javascript:void(0);" data-name="Lào Cai" data-action="view"
+                                            class="location">Lào Cai</a>
+                                        <div class="option">
+                                            <a href="javascript:void(0);" data-name="Lào Cai" data-action="set"
+                                                class="default-check">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                                <span>Chọn mặc định</span>
+                                            </a>
+                                            <a href="javascript:void(0);" data-name="Lào Cai" data-action="view"
+                                                class="view">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-view"></use>
+                                                </svg>
+                                                <span>Xem</span>
+                                            </a>
+                                            <a href="javascript:void(0);" class="default">
+                                                <span>Mặc định</span>
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                            </a>
+                                        </div>
+                                    </li>
+
+                                    <li class="adrress">
+                                        <a href="javascript:void(0);" data-name="Sa Pa" data-action="view"
+                                            class="location">Sa Pa</a>
+                                        <div class="option">
+                                            <a href="javascript:void(0);" data-name="Sa Pa" data-action="set"
+                                                class="default-check">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                                <span>Chọn mặc định</span>
+                                            </a>
+                                            <a href="javascript:void(0);" data-name="Sa Pa" data-action="view"
+                                                class="view">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-view"></use>
+                                                </svg>
+                                                <span>Xem</span>
+                                            </a>
+                                            <a href="javascript:void(0);" class="default">
+                                                <span>Mặc định</span>
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                            </a>
+                                        </div>
+                                    </li>
+
+                                    <li class="adrress">
+                                        <a href="javascript:void(0);" data-name="Lâm Đồng" data-action="view"
+                                            class="location">Lâm Đồng</a>
+                                        <div class="option">
+                                            <a href="javascript:void(0);" data-name="Lâm Đồng" data-action="set"
+                                                class="default-check">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                                <span>Chọn mặc định</span>
+                                            </a>
+                                            <a href="javascript:void(0);" data-name="Lâm Đồng" data-action="view"
+                                                class="view">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-view"></use>
+                                                </svg>
+                                                <span>Xem</span>
+                                            </a>
+                                            <a href="javascript:void(0);" class="default">
+                                                <span>Mặc định</span>
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                            </a>
+                                        </div>
+                                    </li>
+
+                                    <li class="adrress">
+                                        <a href="javascript:void(0);" data-name="Đà Lạt" data-action="view"
+                                            class="location">Đà Lạt</a>
+                                        <div class="option">
+                                            <a href="javascript:void(0);" data-name="Đà Lạt" data-action="set"
+                                                class="default-check">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                                <span>Chọn mặc định</span>
+                                            </a>
+                                            <a href="javascript:void(0);" data-name="Đà Lạt" data-action="view"
+                                                class="view">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-view"></use>
+                                                </svg>
+                                                <span>Xem</span>
+                                            </a>
+                                            <a href="javascript:void(0);" class="default">
+                                                <span>Mặc định</span>
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                            </a>
+                                        </div>
+                                    </li>
+
+                                    <li class="adrress">
+                                        <a href="javascript:void(0);" data-name="Long An" data-action="view"
+                                            class="location">Long An</a>
+                                        <div class="option">
+                                            <a href="javascript:void(0);" data-name="Long An" data-action="set"
+                                                class="default-check">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                                <span>Chọn mặc định</span>
+                                            </a>
+                                            <a href="javascript:void(0);" data-name="Long An" data-action="view"
+                                                class="view">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-view"></use>
+                                                </svg>
+                                                <span>Xem</span>
+                                            </a>
+                                            <a href="javascript:void(0);" class="default">
+                                                <span>Mặc định</span>
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                            </a>
+                                        </div>
+                                    </li>
+
+                                    <li class="adrress">
+                                        <a href="javascript:void(0);" data-name="Nam Định" data-action="view"
+                                            class="location">Nam Định</a>
+                                        <div class="option">
+                                            <a href="javascript:void(0);" data-name="Nam Định" data-action="set"
+                                                class="default-check">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                                <span>Chọn mặc định</span>
+                                            </a>
+                                            <a href="javascript:void(0);" data-name="Nam Định" data-action="view"
+                                                class="view">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-view"></use>
+                                                </svg>
+                                                <span>Xem</span>
+                                            </a>
+                                            <a href="javascript:void(0);" class="default">
+                                                <span>Mặc định</span>
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                            </a>
+                                        </div>
+                                    </li>
+
+                                    <li class="adrress">
+                                        <a href="javascript:void(0);" data-name="Nghệ An" data-action="view"
+                                            class="location">Nghệ An</a>
+                                        <div class="option">
+                                            <a href="javascript:void(0);" data-name="Nghệ An" data-action="set"
+                                                class="default-check">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                                <span>Chọn mặc định</span>
+                                            </a>
+                                            <a href="javascript:void(0);" data-name="Nghệ An" data-action="view"
+                                                class="view">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-view"></use>
+                                                </svg>
+                                                <span>Xem</span>
+                                            </a>
+                                            <a href="javascript:void(0);" class="default">
+                                                <span>Mặc định</span>
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                            </a>
+                                        </div>
+                                    </li>
+
+                                    <li class="adrress">
+                                        <a href="javascript:void(0);" data-name="Vinh" data-action="view"
+                                            class="location">Vinh</a>
+                                        <div class="option">
+                                            <a href="javascript:void(0);" data-name="Vinh" data-action="set"
+                                                class="default-check">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                                <span>Chọn mặc định</span>
+                                            </a>
+                                            <a href="javascript:void(0);" data-name="Vinh" data-action="view"
+                                                class="view">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-view"></use>
+                                                </svg>
+                                                <span>Xem</span>
+                                            </a>
+                                            <a href="javascript:void(0);" class="default">
+                                                <span>Mặc định</span>
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                            </a>
+                                        </div>
+                                    </li>
+
+                                    <li class="adrress">
+                                        <a href="javascript:void(0);" data-name="Ninh Bình" data-action="view"
+                                            class="location">Ninh Bình</a>
+                                        <div class="option">
+                                            <a href="javascript:void(0);" data-name="Ninh Bình" data-action="set"
+                                                class="default-check">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                                <span>Chọn mặc định</span>
+                                            </a>
+                                            <a href="javascript:void(0);" data-name="Ninh Bình" data-action="view"
+                                                class="view">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-view"></use>
+                                                </svg>
+                                                <span>Xem</span>
+                                            </a>
+                                            <a href="javascript:void(0);" class="default">
+                                                <span>Mặc định</span>
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                            </a>
+                                        </div>
+                                    </li>
+
+                                    <li class="adrress">
+                                        <a href="javascript:void(0);" data-name="Ninh Thuận" data-action="view"
+                                            class="location">Ninh Thuận</a>
+                                        <div class="option">
+                                            <a href="javascript:void(0);" data-name="Ninh Thuận" data-action="set"
+                                                class="default-check">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                                <span>Chọn mặc định</span>
+                                            </a>
+                                            <a href="javascript:void(0);" data-name="Ninh Thuận" data-action="view"
+                                                class="view">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-view"></use>
+                                                </svg>
+                                                <span>Xem</span>
+                                            </a>
+                                            <a href="javascript:void(0);" class="default">
+                                                <span>Mặc định</span>
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                            </a>
+                                        </div>
+                                    </li>
+
+                                    <li class="adrress">
+                                        <a href="javascript:void(0);" data-name="Phú Thọ" data-action="view"
+                                            class="location">Phú Thọ</a>
+                                        <div class="option">
+                                            <a href="javascript:void(0);" data-name="Phú Thọ" data-action="set"
+                                                class="default-check">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                                <span>Chọn mặc định</span>
+                                            </a>
+                                            <a href="javascript:void(0);" data-name="Phú Thọ" data-action="view"
+                                                class="view">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-view"></use>
+                                                </svg>
+                                                <span>Xem</span>
+                                            </a>
+                                            <a href="javascript:void(0);" class="default">
+                                                <span>Mặc định</span>
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                            </a>
+                                        </div>
+                                    </li>
+
+                                    <li class="adrress">
+                                        <a href="javascript:void(0);" data-name="Phú Yên" data-action="view"
+                                            class="location">Phú Yên</a>
+                                        <div class="option">
+                                            <a href="javascript:void(0);" data-name="Phú Yên" data-action="set"
+                                                class="default-check">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                                <span>Chọn mặc định</span>
+                                            </a>
+                                            <a href="javascript:void(0);" data-name="Phú Yên" data-action="view"
+                                                class="view">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-view"></use>
+                                                </svg>
+                                                <span>Xem</span>
+                                            </a>
+                                            <a href="javascript:void(0);" class="default">
+                                                <span>Mặc định</span>
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                            </a>
+                                        </div>
+                                    </li>
+
+                                    <li class="adrress">
+                                        <a href="javascript:void(0);" data-name="Quảng Bình" data-action="view"
+                                            class="location">Quảng Bình</a>
+                                        <div class="option">
+                                            <a href="javascript:void(0);" data-name="Quảng Bình" data-action="set"
+                                                class="default-check">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                                <span>Chọn mặc định</span>
+                                            </a>
+                                            <a href="javascript:void(0);" data-name="Quảng Bình" data-action="view"
+                                                class="view">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-view"></use>
+                                                </svg>
+                                                <span>Xem</span>
+                                            </a>
+                                            <a href="javascript:void(0);" class="default">
+                                                <span>Mặc định</span>
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                            </a>
+                                        </div>
+                                    </li>
+
+                                    <li class="adrress">
+                                        <a href="javascript:void(0);" data-name="Quảng Nam" data-action="view"
+                                            class="location">Quảng Nam</a>
+                                        <div class="option">
+                                            <a href="javascript:void(0);" data-name="Quảng Nam" data-action="set"
+                                                class="default-check">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                                <span>Chọn mặc định</span>
+                                            </a>
+                                            <a href="javascript:void(0);" data-name="Quảng Nam" data-action="view"
+                                                class="view">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-view"></use>
+                                                </svg>
+                                                <span>Xem</span>
+                                            </a>
+                                            <a href="javascript:void(0);" class="default">
+                                                <span>Mặc định</span>
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                            </a>
+                                        </div>
+                                    </li>
+
+                                    <li class="adrress">
+                                        <a href="javascript:void(0);" data-name="Hội An" data-action="view"
+                                            class="location">Hội An</a>
+                                        <div class="option">
+                                            <a href="javascript:void(0);" data-name="Hội An" data-action="set"
+                                                class="default-check">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                                <span>Chọn mặc định</span>
+                                            </a>
+                                            <a href="javascript:void(0);" data-name="Hội An" data-action="view"
+                                                class="view">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-view"></use>
+                                                </svg>
+                                                <span>Xem</span>
+                                            </a>
+                                            <a href="javascript:void(0);" class="default">
+                                                <span>Mặc định</span>
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                            </a>
+                                        </div>
+                                    </li>
+
+                                    <li class="adrress">
+                                        <a href="javascript:void(0);" data-name="Quảng Ngãi" data-action="view"
+                                            class="location">Quảng Ngãi</a>
+                                        <div class="option">
+                                            <a href="javascript:void(0);" data-name="Quảng Ngãi" data-action="set"
+                                                class="default-check">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                                <span>Chọn mặc định</span>
+                                            </a>
+                                            <a href="javascript:void(0);" data-name="Quảng Ngãi" data-action="view"
+                                                class="view">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-view"></use>
+                                                </svg>
+                                                <span>Xem</span>
+                                            </a>
+                                            <a href="javascript:void(0);" class="default">
+                                                <span>Mặc định</span>
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                            </a>
+                                        </div>
+                                    </li>
+
+                                    <li class="adrress">
+                                        <a href="javascript:void(0);" data-name="Lý Sơn" data-action="view"
+                                            class="location">Lý Sơn</a>
+                                        <div class="option">
+                                            <a href="javascript:void(0);" data-name="Lý Sơn" data-action="set"
+                                                class="default-check">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                                <span>Chọn mặc định</span>
+                                            </a>
+                                            <a href="javascript:void(0);" data-name="Lý Sơn" data-action="view"
+                                                class="view">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-view"></use>
+                                                </svg>
+                                                <span>Xem</span>
+                                            </a>
+                                            <a href="javascript:void(0);" class="default">
+                                                <span>Mặc định</span>
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                            </a>
+                                        </div>
+                                    </li>
+
+                                    <li class="adrress">
+                                        <a href="javascript:void(0);" data-name="Quảng Ninh" data-action="view"
+                                            class="location">Quảng Ninh</a>
+                                        <div class="option">
+                                            <a href="javascript:void(0);" data-name="Quảng Ninh" data-action="set"
+                                                class="default-check">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                                <span>Chọn mặc định</span>
+                                            </a>
+                                            <a href="javascript:void(0);" data-name="Quảng Ninh" data-action="view"
+                                                class="view">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-view"></use>
+                                                </svg>
+                                                <span>Xem</span>
+                                            </a>
+                                            <a href="javascript:void(0);" class="default">
+                                                <span>Mặc định</span>
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                            </a>
+                                        </div>
+                                    </li>
+
+                                    <li class="adrress">
+                                        <a href="javascript:void(0);" data-name="Cô Tô" data-action="view"
+                                            class="location">Cô Tô</a>
+                                        <div class="option">
+                                            <a href="javascript:void(0);" data-name="Cô Tô" data-action="set"
+                                                class="default-check">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                                <span>Chọn mặc định</span>
+                                            </a>
+                                            <a href="javascript:void(0);" data-name="Cô Tô" data-action="view"
+                                                class="view">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-view"></use>
+                                                </svg>
+                                                <span>Xem</span>
+                                            </a>
+                                            <a href="javascript:void(0);" class="default">
+                                                <span>Mặc định</span>
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                            </a>
+                                        </div>
+                                    </li>
+
+                                    <li class="adrress">
+                                        <a href="javascript:void(0);" data-name="Quảng Trị" data-action="view"
+                                            class="location">Quảng Trị</a>
+                                        <div class="option">
+                                            <a href="javascript:void(0);" data-name="Quảng Trị" data-action="set"
+                                                class="default-check">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                                <span>Chọn mặc định</span>
+                                            </a>
+                                            <a href="javascript:void(0);" data-name="Quảng Trị" data-action="view"
+                                                class="view">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-view"></use>
+                                                </svg>
+                                                <span>Xem</span>
+                                            </a>
+                                            <a href="javascript:void(0);" class="default">
+                                                <span>Mặc định</span>
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                            </a>
+                                        </div>
+                                    </li>
+
+                                    <li class="adrress">
+                                        <a href="javascript:void(0);" data-name="Sóc Trăng" data-action="view"
+                                            class="location">Sóc Trăng</a>
+                                        <div class="option">
+                                            <a href="javascript:void(0);" data-name="Sóc Trăng" data-action="set"
+                                                class="default-check">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                                <span>Chọn mặc định</span>
+                                            </a>
+                                            <a href="javascript:void(0);" data-name="Sóc Trăng" data-action="view"
+                                                class="view">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-view"></use>
+                                                </svg>
+                                                <span>Xem</span>
+                                            </a>
+                                            <a href="javascript:void(0);" class="default">
+                                                <span>Mặc định</span>
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                            </a>
+                                        </div>
+                                    </li>
+
+                                    <li class="adrress">
+                                        <a href="javascript:void(0);" data-name="Sơn La" data-action="view"
+                                            class="location">Sơn La</a>
+                                        <div class="option">
+                                            <a href="javascript:void(0);" data-name="Sơn La" data-action="set"
+                                                class="default-check">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                                <span>Chọn mặc định</span>
+                                            </a>
+                                            <a href="javascript:void(0);" data-name="Sơn La" data-action="view"
+                                                class="view">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-view"></use>
+                                                </svg>
+                                                <span>Xem</span>
+                                            </a>
+                                            <a href="javascript:void(0);" class="default">
+                                                <span>Mặc định</span>
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                            </a>
+                                        </div>
+                                    </li>
+
+                                    <li class="adrress">
+                                        <a href="javascript:void(0);" data-name="Mộc Châu" data-action="view"
+                                            class="location">Mộc Châu</a>
+                                        <div class="option">
+                                            <a href="javascript:void(0);" data-name="Mộc Châu" data-action="set"
+                                                class="default-check">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                                <span>Chọn mặc định</span>
+                                            </a>
+                                            <a href="javascript:void(0);" data-name="Mộc Châu" data-action="view"
+                                                class="view">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-view"></use>
+                                                </svg>
+                                                <span>Xem</span>
+                                            </a>
+                                            <a href="javascript:void(0);" class="default">
+                                                <span>Mặc định</span>
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                            </a>
+                                        </div>
+                                    </li>
+
+                                    <li class="adrress">
+                                        <a href="javascript:void(0);" data-name="Tây Ninh" data-action="view"
+                                            class="location">Tây Ninh</a>
+                                        <div class="option">
+                                            <a href="javascript:void(0);" data-name="Tây Ninh" data-action="set"
+                                                class="default-check">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                                <span>Chọn mặc định</span>
+                                            </a>
+                                            <a href="javascript:void(0);" data-name="Tây Ninh" data-action="view"
+                                                class="view">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-view"></use>
+                                                </svg>
+                                                <span>Xem</span>
+                                            </a>
+                                            <a href="javascript:void(0);" class="default">
+                                                <span>Mặc định</span>
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                            </a>
+                                        </div>
+                                    </li>
+
+                                    <li class="adrress">
+                                        <a href="javascript:void(0);" data-name="Thái Bình" data-action="view"
+                                            class="location">Thái Bình</a>
+                                        <div class="option">
+                                            <a href="javascript:void(0);" data-name="Thái Bình" data-action="set"
+                                                class="default-check">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                                <span>Chọn mặc định</span>
+                                            </a>
+                                            <a href="javascript:void(0);" data-name="Thái Bình" data-action="view"
+                                                class="view">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-view"></use>
+                                                </svg>
+                                                <span>Xem</span>
+                                            </a>
+                                            <a href="javascript:void(0);" class="default">
+                                                <span>Mặc định</span>
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                            </a>
+                                        </div>
+                                    </li>
+
+                                    <li class="adrress">
+                                        <a href="javascript:void(0);" data-name="Thái Nguyên" data-action="view"
+                                            class="location">Thái Nguyên</a>
+                                        <div class="option">
+                                            <a href="javascript:void(0);" data-name="Thái Nguyên" data-action="set"
+                                                class="default-check">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                                <span>Chọn mặc định</span>
+                                            </a>
+                                            <a href="javascript:void(0);" data-name="Thái Nguyên" data-action="view"
+                                                class="view">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-view"></use>
+                                                </svg>
+                                                <span>Xem</span>
+                                            </a>
+                                            <a href="javascript:void(0);" class="default">
+                                                <span>Mặc định</span>
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                            </a>
+                                        </div>
+                                    </li>
+
+                                    <li class="adrress">
+                                        <a href="javascript:void(0);" data-name="Thanh Hóa" data-action="view"
+                                            class="location">Thanh Hóa</a>
+                                        <div class="option">
+                                            <a href="javascript:void(0);" data-name="Thanh Hóa" data-action="set"
+                                                class="default-check">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                                <span>Chọn mặc định</span>
+                                            </a>
+                                            <a href="javascript:void(0);" data-name="Thanh Hóa" data-action="view"
+                                                class="view">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-view"></use>
+                                                </svg>
+                                                <span>Xem</span>
+                                            </a>
+                                            <a href="javascript:void(0);" class="default">
+                                                <span>Mặc định</span>
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                            </a>
+                                        </div>
+                                    </li>
+
+                                    <li class="adrress">
+                                        <a href="javascript:void(0);" data-name="Thừa Thiên Huế" data-action="view"
+                                            class="location">Thừa Thiên Huế</a>
+                                        <div class="option">
+                                            <a href="javascript:void(0);" data-name="Thừa Thiên Huế" data-action="set"
+                                                class="default-check">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                                <span>Chọn mặc định</span>
+                                            </a>
+                                            <a href="javascript:void(0);" data-name="Thừa Thiên Huế" data-action="view"
+                                                class="view">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-view"></use>
+                                                </svg>
+                                                <span>Xem</span>
+                                            </a>
+                                            <a href="javascript:void(0);" class="default">
+                                                <span>Mặc định</span>
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                            </a>
+                                        </div>
+                                    </li>
+
+                                    <li class="adrress">
+                                        <a href="javascript:void(0);" data-name="Tiền Giang" data-action="view"
+                                            class="location">Tiền Giang</a>
+                                        <div class="option">
+                                            <a href="javascript:void(0);" data-name="Tiền Giang" data-action="set"
+                                                class="default-check">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                                <span>Chọn mặc định</span>
+                                            </a>
+                                            <a href="javascript:void(0);" data-name="Tiền Giang" data-action="view"
+                                                class="view">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-view"></use>
+                                                </svg>
+                                                <span>Xem</span>
+                                            </a>
+                                            <a href="javascript:void(0);" class="default">
+                                                <span>Mặc định</span>
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                            </a>
+                                        </div>
+                                    </li>
+
+                                    <li class="adrress">
+                                        <a href="javascript:void(0);" data-name="Trà Vinh" data-action="view"
+                                            class="location">Trà Vinh</a>
+                                        <div class="option">
+                                            <a href="javascript:void(0);" data-name="Trà Vinh" data-action="set"
+                                                class="default-check">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                                <span>Chọn mặc định</span>
+                                            </a>
+                                            <a href="javascript:void(0);" data-name="Trà Vinh" data-action="view"
+                                                class="view">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-view"></use>
+                                                </svg>
+                                                <span>Xem</span>
+                                            </a>
+                                            <a href="javascript:void(0);" class="default">
+                                                <span>Mặc định</span>
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                            </a>
+                                        </div>
+                                    </li>
+
+                                    <li class="adrress">
+                                        <a href="javascript:void(0);" data-name="Tuyên Quang" data-action="view"
+                                            class="location">Tuyên Quang</a>
+                                        <div class="option">
+                                            <a href="javascript:void(0);" data-name="Tuyên Quang" data-action="set"
+                                                class="default-check">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                                <span>Chọn mặc định</span>
+                                            </a>
+                                            <a href="javascript:void(0);" data-name="Tuyên Quang" data-action="view"
+                                                class="view">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-view"></use>
+                                                </svg>
+                                                <span>Xem</span>
+                                            </a>
+                                            <a href="javascript:void(0);" class="default">
+                                                <span>Mặc định</span>
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                            </a>
+                                        </div>
+                                    </li>
+
+                                    <li class="adrress">
+                                        <a href="javascript:void(0);" data-name="Vĩnh Long" data-action="view"
+                                            class="location">Vĩnh Long</a>
+                                        <div class="option">
+                                            <a href="javascript:void(0);" data-name="Vĩnh Long" data-action="set"
+                                                class="default-check">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                                <span>Chọn mặc định</span>
+                                            </a>
+                                            <a href="javascript:void(0);" data-name="Vĩnh Long" data-action="view"
+                                                class="view">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-view"></use>
+                                                </svg>
+                                                <span>Xem</span>
+                                            </a>
+                                            <a href="javascript:void(0);" class="default">
+                                                <span>Mặc định</span>
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                            </a>
+                                        </div>
+                                    </li>
+
+                                    <li class="adrress">
+                                        <a href="javascript:void(0);" data-name="Vĩnh Phúc" data-action="view"
+                                            class="location">Vĩnh Phúc</a>
+                                        <div class="option">
+                                            <a href="javascript:void(0);" data-name="Vĩnh Phúc" data-action="set"
+                                                class="default-check">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                                <span>Chọn mặc định</span>
+                                            </a>
+                                            <a href="javascript:void(0);" data-name="Vĩnh Phúc" data-action="view"
+                                                class="view">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-view"></use>
+                                                </svg>
+                                                <span>Xem</span>
+                                            </a>
+                                            <a href="javascript:void(0);" class="default">
+                                                <span>Mặc định</span>
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                            </a>
+                                        </div>
+                                    </li>
+
+                                    <li class="adrress">
+                                        <a href="javascript:void(0);" data-name="Tam Đảo" data-action="view"
+                                            class="location">Tam Đảo</a>
+                                        <div class="option">
+                                            <a href="javascript:void(0);" data-name="Tam Đảo" data-action="set"
+                                                class="default-check">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                                <span>Chọn mặc định</span>
+                                            </a>
+                                            <a href="javascript:void(0);" data-name="Tam Đảo" data-action="view"
+                                                class="view">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-view"></use>
+                                                </svg>
+                                                <span>Xem</span>
+                                            </a>
+                                            <a href="javascript:void(0);" class="default">
+                                                <span>Mặc định</span>
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                            </a>
+                                        </div>
+                                    </li>
+
+                                    <li class="adrress">
+                                        <a href="javascript:void(0);" data-name="Yên Bái" data-action="view"
+                                            class="location">Yên Bái</a>
+                                        <div class="option">
+                                            <a href="javascript:void(0);" data-name="Yên Bái" data-action="set"
+                                                class="default-check">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                                <span>Chọn mặc định</span>
+                                            </a>
+                                            <a href="javascript:void(0);" data-name="Yên Bái" data-action="view"
+                                                class="view">
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-view"></use>
+                                                </svg>
+                                                <span>Xem</span>
+                                            </a>
+                                            <a href="javascript:void(0);" class="default">
+                                                <span>Mặc định</span>
+                                                <svg class="ic ic-weather">
+                                                    <use xlink:href="#icon-default"></use>
+                                                </svg>
+                                            </a>
+                                        </div>
+                                    </li>
+
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- <div class="weather" onclick="location.href='/thoi-tiet/tp-hcm#vn_source=Home&amp;vn_campaign=Header&amp;vn_medium=Item-ThoiTiet&amp;vn_term=Desktop'">
+                    <svg class="ic ic-weather">
+                        <use xlink:href="#partly-cloudy-night-s"></use>
+                    </svg>
+                    <span><span>27 <sup>o</sup></span></span>
+                    
+                    <div class="news-area hidden">
+                        <div class="hint-area hint-region-news">
+                            <span>Thời tiết từng địa phương</span>
+                            <span class="close-hint gaBoxLinkDisplay" data-event-category="Article Link Click" data-event-action="Weather-Item-TopBar_Hint_Desktop" data-event-label="Button-Close">×</span>
+                        </div>
+                    </div>
+                    
+                </div> -->
+            </div>
