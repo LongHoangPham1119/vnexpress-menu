@@ -232,7 +232,7 @@ ul, li {
     margin-top: 0;
 }
 
-.weather-page .news-area, .top-header .news-area {
+.weather-page .news-area {
     overflow: hidden;
 }
 
@@ -306,7 +306,6 @@ ul, li {
     align-items: center;
     color: #757575;
     font-size: 14px;
-    position: relative;
 }
 
 .news-area svg {
@@ -320,6 +319,7 @@ ul, li {
 }
 
 .sub-area {
+    display: none;
     width: 155px;
     background: #fff;
     -webkit-box-shadow: 0 1px 4px rgba(0,0,0,.2);
@@ -327,15 +327,22 @@ ul, li {
     border-radius: 4px;
     position: absolute;
     left: 0;
-    opacity: 0;
-    visibility: hidden;
+    visibility: visible;
     top: 120%;
-    -webkit-transition-duration: 200ms;
-    transition-duration: 200ms;
-    -webkit-transition-property: all;
-    transition-property: all;
-    -webkit-transition-timing-function: cubic-bezier(.7,1,.7,1);
-    transition-timing-function: cubic-bezier(.7,1,.7,1);
+
+}
+
+.sub-area li a {
+    display: block;
+    padding: 12px 15px;
+    color: #4f4f4f;
+    font-size: 14px;
+    line-height: 140%;
+    font-weight: 700;
+}
+
+.news-area:hover .sub-area {
+    display: block;
 }
 /* end news area */
 
@@ -592,7 +599,6 @@ ul, li {
     float: left;
     clear: both;
     font-size: 14px;
-    overflow: hidden;
     border-bottom: 1px solid #e5e5e5;
     -webkit-transition-duration: 300ms;
     transition-duration: 300ms;
@@ -620,12 +626,6 @@ ul, li {
     position: relative;
     font-weight: 400;
     color: #222;
-    -webkit-transition-duration: 200ms;
-    transition-duration: 200ms;
-    -webkit-transition-property: color;
-    transition-property: color;
-    -webkit-transition-timing-function: cubic-bezier(.7,1,.7,1);
-    transition-timing-function: cubic-bezier(.7,1,.7,1);
 }
 
 .main-nav .parent li.home a {
@@ -633,17 +633,9 @@ ul, li {
     height: 24px;
     border-radius: 50%;
     background: #e5e5e5;
-    -webkit-box-pack: center;
-    -ms-flex-pack: center;
     justify-content: center;
     padding: 0;
     position: relative;
-    -webkit-transition-duration: 300ms;
-    transition-duration: 300ms;
-    -webkit-transition-property: all;
-    transition-property: all;
-    -webkit-transition-timing-function: cubic-bezier(.7,1,.7,1);
-    transition-timing-function: cubic-bezier(.7,1,.7,1);
 }
 
 .main-nav .parent li a {
@@ -656,14 +648,6 @@ ul, li {
     position: absolute;
     top: 50%;
     left: 50%;
-    -webkit-transform: translate(-50%,-50%);
-    transform: translate(-50%,-50%);
-    -webkit-transition-duration: 300ms;
-    transition-duration: 300ms;
-    -webkit-transition-property: all;
-    transition-property: all;
-    -webkit-transition-timing-function: cubic-bezier(.7,1,.7,1);
-    transition-timing-function: cubic-bezier(.7,1,.7,1);
 }
 
 .main-nav .parent li.home a .ic.ic-evne {
@@ -678,12 +662,6 @@ ul, li {
     width: 0;
     padding-right: 0;
     margin-right: 0;
-    -webkit-transition-duration: 200ms;
-    transition-duration: 200ms;
-    -webkit-transition-property: all;
-    transition-property: all;
-    -webkit-transition-timing-function: cubic-bezier(.7,1,.7,1);
-    transition-timing-function: cubic-bezier(.7,1,.7,1);
 }
 
 .main-nav .parent li.newlest a {
@@ -705,22 +683,18 @@ ul, li {
 }
 
 .main-nav .sub {
+    display: none;
     width: 190px;
     background: #fff;
-    opacity: 0;
-    visibility: hidden;
+    visibility: visible;
     position: absolute;
     z-index: 2;
     left: 0;
     top: calc(100% + 20px);
     -webkit-box-shadow: 0 2px 8px rgba(0,0,0,.1);
     box-shadow: 0 2px 8px rgba(0,0,0,.1);
-    -webkit-transition-duration: 200ms;
-    transition-duration: 200ms;
-    -webkit-transition-property: opacity , top , visible;
-    transition-property: opacity , top , visible;
-    -webkit-transition-timing-function: cubic-bezier(.7,1,.7,1);
-    transition-timing-function: cubic-bezier(.7,1,.7,1);
+    /* overflow-y: auto;
+    overflow-x: hidden; */
 }
 
 .main-nav .sub li {
@@ -731,6 +705,30 @@ ul, li {
 .main-nav .sub li a {
     padding: 10px 15px;
     color: #333!important;
+}
+
+.thoisu:hover .sub,
+.gocnhin:hover .sub,
+.thegioi:hover .sub,
+.video:hover .sub,
+.podcasts:hover .sub,
+.kinhdoanh:hover .sub,
+.batdongsan:hover .sub,
+.khoahoc:hover .sub,
+.giaitri:hover .sub,
+.thethao:hover .sub,
+.phapluat:hover .sub,
+.giaoduc:hover .sub,
+.suckhoe:hover .sub,
+.doisong:hover .sub,
+.dulich:hover .sub,
+.sohoa:hover .sub,
+.xe:hover .sub,
+.ykien:hover .sub,
+.tamsu:hover .sub,
+.cuoi:hover .sub,
+.all-menu:hover .sub {
+    display: block;
 }
 /* end section */
 
